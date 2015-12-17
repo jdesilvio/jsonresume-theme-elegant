@@ -7,7 +7,8 @@
 //
 
 var http = require("http");
-var resume = require("resume-schema").resumeJson;
+//var resume = require("resume-schema").resumeJson;
+var resume = require("./resume.json");
 var theme = require("./index.js");
 
 var port = 8888;
