@@ -11,7 +11,8 @@ var http = require("http");
 var resume = require("./resume.json");
 var theme = require("./index.js");
 
-var port = 8888;
+//var port = 8888;
+var port = process.env.OPENSHIFT_NODEJS_PORT;
 http.createServer(function(req, res) {
     res.writeHead(200, {
         "Content-Type": "text/html"
