@@ -1,0 +1,151 @@
+{
+  "basics": {
+    "name": "John DeSilvio",
+    "label": "Programmer",
+    "picture": "",
+    "email": "john.desilvio@yahoo.com",
+    "phone": "(856) 287-9082",
+    "website": "http://t206.io",
+    "summary": "Ambitious, self-taught, full-stack developer, obsessed with learning and building new things",
+    "location": {
+      "address": "108 Park Place Drive",
+      "postalCode": "NJ 08002",
+      "city": "Cherry Hill",
+      "countryCode": "US",
+      "region": "New Jersey"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "jdesilvio",
+        "url": "https://github.com/jdesilvio"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "",
+        "url": "https://www.linkedin.com/pub/john-desilvio/19/503/518"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Bloomberg LP",
+      "position": "Global Operations Data Analyst and Project Manager",
+      "website": "http://www.bloomberg.com",
+      "startDate": "2007-10-07",
+      "endDate": "2015-12-13",
+      "summary": "Oversee all facets of BPO vendor management, allocation and coordination for 18 projects totaling 235 vendor analysts in India, China, Hungary and the US while collaborating globally with management, the risk department, R&D, IT and key vendor contacts in a fast paced and innovative business environment.",
+      "highlights": [
+        "Analyze large data sets to provide key insights and form strategic plans to improve performance",
+        "Communicate and collaborate with management at vendor sites to resolve issues and execute plans",
+        "Communicate to management the results of analysis, strategic plans and the general state of the projects",
+        "Work globally with internal and external vendor managers to enhance their vendor management skills",
+        "Review and revise Service Level Agreements, Scopes of Work and Key Performance Indicators",
+        "Serve as primary resource for vendor information and issue resolution to keep projects running smoothly",
+        "Travel to various vendor sites and Bloomberg offices globally to forge stronger relationships"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "",
+      "position": "",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        ""
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Lehigh University",
+      "area": "Mechanical ENgineering",
+      "studyType": "Bachelor",
+      "startDate": "2001-08-15",
+      "endDate": "2005-05-01",
+      "gpa": "",
+      "courses": [
+        "Calculus III",
+        "Nanotechnology",
+        "Advanced CAD",
+        "Advanced Thermodynamics",
+        "Astrophysics I & II"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "publications": [
+    {
+      "name": "",
+      "publisher": "",
+      "releaseDate": "",
+      "website": "",
+      "summary": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Intermediate",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "Ruby on Rails",
+        "Heroku"
+      ]
+    },
+    {
+      "name": "Data Analysis",
+      "level": "Master",
+      "keywords": [
+        "R",
+        "Python",
+        "Amazon Web Services"
+      ]
+    },
+    {
+      "name": "Data Science",
+      "level": "Beginner",
+      "keywords": [
+        "R",
+        "Computer Vision (Python & OpenCV)",
+        "Machine Learning",
+        "Natural Language Processing"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Traveling",
+      "keywords": [
+        "India",
+        "Nepal",
+        "South Korea",
+        "Europe"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Erlich Bachman",
+      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+    }
+  ]
+}
