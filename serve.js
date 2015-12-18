@@ -12,13 +12,14 @@ var resume = require("./resume.json");
 var theme = require("./index.js");
 
 //var port = 8888;
-var port = process.env.OPENSHIFT_NODEJS_PORT;
+var port = process.env.OPENSHIFT_NODEJS_PORT
+var ip = process.env.OPENSHIFT_NODEJS_IP
 http.createServer(function(req, res) {
     res.writeHead(200, {
         "Content-Type": "text/html"
     });
     res.end(render());
-}).listen(port);
+}).listen(port, ip);
 
 console.log("Preview: http://localhost:8888/");
 console.log("Serving..");
