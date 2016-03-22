@@ -23,7 +23,7 @@ module.exports = function(grunt) {
         },
         exec: {
             run_server: {
-                cmd: "node serve.js"
+                cmd: "node server.js"
             },
             build_index: {
                 cmd: "node render.js"

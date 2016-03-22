@@ -16,16 +16,16 @@
           "period": "March 2011 - Present",
           "summary": "",
           "responsibilities": [
-            "Collaborate with C-suite executives to design and implement new data models and workflows"
-            "Process engineering with desperate data sources in an HDFS, Kafka and internal tooling environment"
-            "Data munging, analysis and visualization - R Programming Language and D3.js"
+            "Collaborate with C-suite executives to design and implement new data models and workflows",
+            "Process engineering with desperate data sources in an HDFS, Kafka and internal tooling environment",
+            "Data munging, analysis and visualization - R Programming Language and D3.js",
             "Process and workflow automation; general scripting - Python"
 
           ],
           "skills": [
-            "Initiated relationship, participated in contract negotiations and currently coordinating a global rollout of upwork.com's    Enterprise Solution"
-            "Engineering a generic workflow model which cuts data capture and processing costs by 75% - automating the launching of jobs on CrowdFlower.com and gigwork.net, getting job results and pushing to databases"
-            "Analyzing customer service tickets using clustering algorithms in R to decrease resolution time by auto-routing"
+            "Initiated relationship, participated in contract negotiations and currently coordinating a global rollout of upwork.com's Enterprise Solution",
+            "Engineering a generic workflow model which cuts data capture and processing costs by 75% - automating the launching of jobs on CrowdFlower.com and gigwork.net, getting job results and pushing to databases",
+            "Analyzing customer service tickets using clustering algorithms in R to decrease resolution time by auto-routing",
             "Developed and teaching R programming language courses,  empowering employees to analyze their product's datasets"
           ]
         },
@@ -55,11 +55,11 @@
           "summary": "A portfolio site, a side project, a fantastic hobby - T206.io was developed to implement learned skills around a central theme, the T206 baseball card set from the early 1900's which provides an extremely interesting dataset.",
           "responsibilities": [],
           "skills": [
-            "Database architecture - PostgreSQL (AWS RDS) and MongoDB"
-            "Front-End Development - Ruby on Rails, HTML, CSS/SASS, and JavaScript"
-            "DevOps, Deployment and Version Control - AWS, Heroku, Docker and Git"
-            "Computer Vision, Microservices and RESTful APIs - Python, Flask, OpenCV and HDF5"
-            "Design - Image processing/editing (GIMP), UX/UI, topography (TypeKit), logo design"
+            "Database architecture - PostgreSQL (AWS RDS) and MongoDB",
+            "Front-End Development - Ruby on Rails, HTML, CSS/SASS, and JavaScript",
+            "DevOps, Deployment and Version Control - AWS, Heroku, Docker and Git",
+            "Computer Vision, Microservices and RESTful APIs - Python, Flask, OpenCV and HDF5",
+            "Design - Image processing/editing (GIMP), UX/UI, topography (TypeKit), logo design",
             "Web scraping - Python (BeautifulSoup, Selenium and XPATH)"
           ]
         }
@@ -79,7 +79,7 @@
       ]
     },
     {
-      "company": "De Silvio & Co., Inc.	",
+      "company": "De Silvio & Co., Inc.",
       "location": "Cedarbrook, NJ",
       "jobs": [
         {
@@ -91,55 +91,54 @@
         }
       ]
     }
+  ],
+  "education": [
+    {
+      "school": "Villanova University",
+      "location": "Villanova, PA",
+      "degree": "Master of Science in Finance",
+      "graduated": "2007-05-01",
+      "courses": ["Valuation", "Stochastic Processes", "Time Series", "Financial Modeling", "Applied Corporate Finance"]
+    },
+    {
+      "school": "Lehigh University",
+      "location": "Bethlehem, PA",
+      "degree": "Bachelor of Science in Mechanical Engineering",
+      "minor": "Minor in Economics",
+      "graduated": "2005-05-01",
+      "courses": ["Calculus III", "Nanotechnology", "Advanced CAD", "Advanced Thermodynamics", "Astrophysics I & II"]
+    },
+    {
+      "school": "Lehigh in Prague",
+      "location": "Prague, Czech Republic",
+      "degree": "International Business and Economics",
+      "graduated": "2003-08-01",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {"skill": "Adobe Photoshop", "level":""},
+    {"skill": "Gimp", "level":""},
+    {"skill": "Bloomberg", "level":""},
+    {"skill": "Python", "level":""},
+    {"skill": "R Programming Language", "level":""},
+    {"skill": "VBA", "level":""},
+    {"skill": "PostgreSQL", "level":""},
+    {"skill": "Ruby", "level":""},
+    {"skill": "Ruby on Rails", "level":""},
+    {"skill": "CSS", "level":""},
+    {"skill": "HTML", "level":""},
+    {"skill": "Heroku", "level":""},
+    {"skill": "AWS", "level":""}
+  ],
+  "interests": [
+    {"interest": "GTD"},
+    {"interest": "Traveling"},
+    {"interest": "Art"},
+    {"interest": "Philadelphia Sports"},
+    {"interest": "Poker"},
+    {"interest": "Piano"},
+    {"interest": "Woodworking"},
+    {"interest": "Financial Markets and Investing"}
   ]
-},
-"education": [
-  {
-    "school": "Villanova University",
-    "location": "Villanova, PA",
-    "degree": "Master of Science in Finance",
-    "graduated": "2007-05-01",
-    "courses": ["Valuation", "Stochastic Processes", "Time Series", "Financial Modeling", "Applied Corporate Finance"]
-  },
-  {
-    "school": "Lehigh University",
-    "location": "Bethlehem, PA",
-    "degree": "Bachelor of Science in Mechanical Engineering",
-    "minor": "Minor in Economics",
-    "graduated": "2005-05-01",
-    "courses": ["Calculus III", "Nanotechnology", "Advanced CAD", "Advanced Thermodynamics", "Astrophysics I & II"]
-  },
-  {
-    "school": "Lehigh in Prague",
-    "location": "Prague, Czech Republic",
-    "degree": "International Business and Economics",
-    "graduated": "2003-08-01",
-    "courses": []
-  }
-]
-
-"skills": [
-  {"skill": "Adobe Photoshop", "level":""},
-  {"skill": "Gimp", "level":""},
-  {"skill": "Bloomberg", "level":""},
-  {"skill": "Python", "level":""},
-  {"skill": "R Programming Language", "level":""},
-  {"skill": "VBA", "level":""},
-  {"skill": "PostgreSQL", "level":""},
-  {"skill": "Ruby", "level":""},
-  {"skill": "Ruby on Rails", "level":""},
-  {"skill": "CSS", "level":""},
-  {"skill": "HTML", "level":""},
-  {"skill": "Heroku", "level":""},
-  {"skill": "AWS", "level":""}
-],
-"interests": [
-  {"interest": "GTD"},
-  {"interest": "Traveling"},
-  {"interest": "Art"},
-  {"interest": "Philadelphia Sports"},
-  {"interest": "Poker"},
-  {"interest": "Piano"},
-  {"interest": "Woodworking"},
-  {"interest": "Financial Markets and Investing"}
-]
+}
