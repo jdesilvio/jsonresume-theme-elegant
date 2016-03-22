@@ -1,151 +1,145 @@
 {
-  "basics": {
-    "name": "John DeSilvio",
-    "label": "Programmer",
-    "picture": "",
-    "email": "john.desilvio@yahoo.com",
-    "phone": "(856) 287-9082",
-    "website": "http://t206.io",
-    "summary": "Ambitious, self-taught, full-stack developer, obsessed with learning and building new things",
-    "location": {
-      "address": "108 Park Place Drive",
-      "postalCode": "NJ 08002",
-      "city": "Cherry Hill",
-      "countryCode": "US",
-      "region": "New Jersey"
-    },
-    "profiles": [
-      {
-        "network": "GitHub",
-        "username": "jdesilvio",
-        "url": "https://github.com/jdesilvio"
-      },
-      {
-        "network": "LinkedIn",
-        "username": "",
-        "url": "https://www.linkedin.com/pub/john-desilvio/19/503/518"
-      }
-    ]
+  "name": "John Anthony DeSilvio, Jr.",
+  "contact": {
+    "address": "108 Park Place Drive, Cherry Hill, NJ 08002",
+    "phone": "856-287-9082",
+    "email": "john.desilvio@yahoo.com"
   },
-  "work": [
+  "description": "Ambitious, self-taught, full-stack developer, obsessed with learning new things",
+  "experience": [
     {
       "company": "Bloomberg LP",
-      "position": "Global Operations Data Analyst and Project Manager",
-      "website": "http://www.bloomberg.com",
-      "startDate": "2007-10-07",
-      "endDate": "2015-12-13",
-      "summary": "Oversee all facets of BPO vendor management, allocation and coordination for 18 projects totaling 235 vendor analysts in India, China, Hungary and the US while collaborating globally with management, the risk department, R&D, IT and key vendor contacts in a fast paced and innovative business environment.",
-      "highlights": [
-        "Analyze large data sets to provide key insights and form strategic plans to improve performance",
-        "Communicate and collaborate with management at vendor sites to resolve issues and execute plans",
-        "Communicate to management the results of analysis, strategic plans and the general state of the projects",
-        "Work globally with internal and external vendor managers to enhance their vendor management skills",
-        "Review and revise Service Level Agreements, Scopes of Work and Key Performance Indicators",
-        "Serve as primary resource for vendor information and issue resolution to keep projects running smoothly",
-        "Travel to various vendor sites and Bloomberg offices globally to forge stronger relationships"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "",
-      "position": "",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        ""
-      ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "Lehigh University",
-      "area": "Mechanical ENgineering",
-      "studyType": "Bachelor",
-      "startDate": "2001-08-15",
-      "endDate": "2005-05-01",
-      "gpa": "",
-      "courses": [
-        "Calculus III",
-        "Nanotechnology",
-        "Advanced CAD",
-        "Advanced Thermodynamics",
-        "Astrophysics I & II"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
-    }
-  ],
-  "publications": [
-    {
-      "name": "",
-      "publisher": "",
-      "releaseDate": "",
-      "website": "",
-      "summary": ""
-    }
-  ],
-  "skills": [
-    {
-      "name": "Web Development",
-      "level": "Intermediate",
-      "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript",
-        "Ruby on Rails",
-        "Heroku"
+      "location": "Skillman, NJ",
+      "jobs": [
+        {
+          "position": "Global Operations Project Manager/Developer – Global Data Department",
+          "period": "March 2011 - Present",
+          "summary": "",
+          "responsibilities": [
+            "Collaborate with C-suite executives to design and implement new data models and workflows"
+            "Process engineering with desperate data sources in an HDFS, Kafka and internal tooling environment"
+            "Data munging, analysis and visualization - R Programming Language and D3.js"
+            "Process and workflow automation; general scripting - Python"
+
+          ],
+          "skills": [
+            "Initiated relationship, participated in contract negotiations and currently coordinating a global rollout of upwork.com's    Enterprise Solution"
+            "Engineering a generic workflow model which cuts data capture and processing costs by 75% - automating the launching of jobs on CrowdFlower.com and gigwork.net, getting job results and pushing to databases"
+            "Analyzing customer service tickets using clustering algorithms in R to decrease resolution time by auto-routing"
+            "Developed and teaching R programming language courses,  empowering employees to analyze their product's datasets"
+          ]
+        },
+        {
+          "position": "Off-shore BPO Vendor Manager – Fixed Income Department",
+          "period": "November 2009 – May 2013",
+          "summary": "",
+          "responsibilities": [],
+          "skills": []
+        },
+        {
+          "position": "Data Analyst – Corporate Bonds/Syndicated Loans",
+          "period": "October 2007 – May 2012",
+          "summary": "",
+          "responsibilities": [],
+          "skills": []
+        }
       ]
     },
     {
-      "name": "Data Analysis",
-      "level": "Master",
-      "keywords": [
-        "R",
-        "Python",
-        "Amazon Web Services"
+      "company": "Portfolio/Side Project (www.T206.io)",
+      "location": "https://github.com/jdesilvio/monster",
+      "jobs": [
+        {
+          "position": "Developer",
+          "period": "June 2015",
+          "summary": "A portfolio site, a side project, a fantastic hobby - T206.io was developed to implement learned skills around a central theme, the T206 baseball card set from the early 1900's which provides an extremely interesting dataset.",
+          "responsibilities": [],
+          "skills": [
+            "Database architecture - PostgreSQL (AWS RDS) and MongoDB"
+            "Front-End Development - Ruby on Rails, HTML, CSS/SASS, and JavaScript"
+            "DevOps, Deployment and Version Control - AWS, Heroku, Docker and Git"
+            "Computer Vision, Microservices and RESTful APIs - Python, Flask, OpenCV and HDF5"
+            "Design - Image processing/editing (GIMP), UX/UI, topography (TypeKit), logo design"
+            "Web scraping - Python (BeautifulSoup, Selenium and XPATH)"
+          ]
+        }
       ]
     },
     {
-      "name": "Data Science",
-      "level": "Beginner",
-      "keywords": [
-        "R",
-        "Computer Vision (Python & OpenCV)",
-        "Machine Learning",
-        "Natural Language Processing"
+      "company": "Verizon Communications, Inc.",
+      "location": "Ewing, NJ",
+      "jobs": [
+        {
+          "position": "Network Engineer",
+          "period": "July 2005 - May 2006",
+          "summary": "",
+          "responsibilities": [],
+          "skills": []
+        }
       ]
-    }
-  ],
-  "languages": [
+    },
     {
-      "language": "English",
-      "fluency": "Native speaker"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Traveling",
-      "keywords": [
-        "India",
-        "Nepal",
-        "South Korea",
-        "Europe"
+      "company": "De Silvio & Co., Inc.	",
+      "location": "Cedarbrook, NJ",
+      "jobs": [
+        {
+          "position": "Laborer",
+          "period": "Summer 1998 - 2003",
+          "summary": "",
+          "responsibilities": [],
+          "skills": []
+        }
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Erlich Bachman",
-      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
     }
   ]
-}
+},
+"education": [
+  {
+    "school": "Villanova University",
+    "location": "Villanova, PA",
+    "degree": "Master of Science in Finance",
+    "graduated": "2007-05-01",
+    "courses": ["Valuation", "Stochastic Processes", "Time Series", "Financial Modeling", "Applied Corporate Finance"]
+  },
+  {
+    "school": "Lehigh University",
+    "location": "Bethlehem, PA",
+    "degree": "Bachelor of Science in Mechanical Engineering",
+    "minor": "Minor in Economics",
+    "graduated": "2005-05-01",
+    "courses": ["Calculus III", "Nanotechnology", "Advanced CAD", "Advanced Thermodynamics", "Astrophysics I & II"]
+  },
+  {
+    "school": "Lehigh in Prague",
+    "location": "Prague, Czech Republic",
+    "degree": "International Business and Economics",
+    "graduated": "2003-08-01",
+    "courses": []
+  }
+]
+
+"skills": [
+  {"skill": "Adobe Photoshop", "level":""},
+  {"skill": "Gimp", "level":""},
+  {"skill": "Bloomberg", "level":""},
+  {"skill": "Python", "level":""},
+  {"skill": "R Programming Language", "level":""},
+  {"skill": "VBA", "level":""},
+  {"skill": "PostgreSQL", "level":""},
+  {"skill": "Ruby", "level":""},
+  {"skill": "Ruby on Rails", "level":""},
+  {"skill": "CSS", "level":""},
+  {"skill": "HTML", "level":""},
+  {"skill": "Heroku", "level":""},
+  {"skill": "AWS", "level":""}
+],
+"interests": [
+  {"interest": "GTD"},
+  {"interest": "Traveling"},
+  {"interest": "Art"},
+  {"interest": "Philadelphia Sports"},
+  {"interest": "Poker"},
+  {"interest": "Piano"},
+  {"interest": "Woodworking"},
+  {"interest": "Financial Markets and Investing"}
+]
