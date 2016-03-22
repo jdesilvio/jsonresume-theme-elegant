@@ -4,6 +4,9 @@ Responsive theme for [JsonResume](https://jsonresume.org/) inspired by card layo
 
 [Theme Preview](http://themes.jsonresume.org/elegant)
 
+### Markdown Supported
+Only in the following places of now `resume.basics.summary`, `work[0].summary`, `volunteer[0].summary`, `awards[0].summary`, `publications[0].summary`, `references[0].reference`. If you have any other usecase, please raise an issue
+
 ### Social Profiles
 The profiles are shown in the order in which they are specified in the `basics.profiles` array. By default, only 5 profiles are shown & others are revealed on demand.
 
@@ -52,6 +55,8 @@ $ grunt exec:run_server // Do this in a new terminal tab to run node server
 ```
 
 Visit [http://localhost:8888](http://localhost:8888) to see the theme in action.
+
+[![Throughput Graph](https://graphs.waffle.io/mudassir0909/jsonresume-theme-elegant/throughput.svg)](https://waffle.io/mudassir0909/jsonresume-theme-elegant/metrics)
 
 ##### Testing JSON changes
 You can test your changes by updating `resume.json` file inside `node_modules/resume-schema/` folder. You might want to rerun `grunt exec:run_server` whenever you make any changes to `resume.json`
